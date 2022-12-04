@@ -1,6 +1,5 @@
 ### Monkey Search - Retrieval (Web Scraping)
 - - -
-#### Introduction:
 #### Monkey search engine searches and suggests the movies / tv series / franchises / celebrities for the user entered query / keyword. It also recommends movies for the user based on their previous searches. User can view coming soon movies with their trailer, top 250 movies for different metrics and trending news. Admin can also view a dashboard which shows different charts on the data captured
 
 
